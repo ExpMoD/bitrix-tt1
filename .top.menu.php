@@ -36,6 +36,13 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
+		"Поиск", 
+		"/search/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
 		"Отзывы", 
 		"/rew/", 
 		Array(), 
